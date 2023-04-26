@@ -39,7 +39,6 @@ function getDominantColor(imgEl)
     {
         return null;
     }
-
     //Get the image size
     width = canvas.width = imgEl.width;
     height = canvas.height = imgEl.height;
@@ -57,14 +56,11 @@ function getDominantColor(imgEl)
         console.log('Error: ', error);
         return null;
     }
-
     //Get the image data array length (4 bytes per pixel) 
     length = data.data.length;
-
     //Create a histogram of all the colors in the image
     var colorCounts = {};
-    //Loop through all the pixels in the image data array 
-
+    //Loop through all the pixels in the image data array
     while ((i += blockSize * 4) < length) 
     {
         //Get the red value of the current pixel
