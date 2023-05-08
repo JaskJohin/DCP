@@ -41,7 +41,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-[@JaskJohin](https://www.linkedin.com/in/adbeat/)
+[ADbeat](https://www.linkedin.com/in/adbeat/)
 
 
 ## Version History
