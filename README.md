@@ -19,8 +19,9 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.2
+* 0.5
     * Various bug fixes and optimizations
+    * Merge dominant color finder with color picker
     * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
