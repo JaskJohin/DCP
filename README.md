@@ -1,6 +1,6 @@
 # DCP
 
-Simple overview of use/purpose.
+Yet another dominant color finder.
 
 ## Description
 
@@ -10,16 +10,14 @@ DCP (stands for Dominant Color Picker) is a suite of tools for color extraction 
 
 Both tools work for local images and are written in JavaScript.
 
-## Authors
-
-Contributors names and contact info
+## Author
 
 [ADbeat](https://www.linkedin.com/in/adbeat/)
 
 
 ## Version History
 
-* 0.5
+* 0.2
     * Various bug fixes and optimizations
     * Merge dominant color finder with color picker
     * See [commit change]() or See [release history]()
